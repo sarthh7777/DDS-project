@@ -9,9 +9,9 @@
 
   > Section: S1/S2
 
-  > Member-1: Abhijit Kar, 231CS106, abhijitkar.231cs106@nit.edu.in
+  > Member-1: Abhijit Kar, 231CS106, abhijitkar.231cs106@nitk.edu.in
 
-  > member-2: Name, Roll No., email
+  > member-2: Sarth Santosh Shah, 231CS154 , sarthshah.231cs154@nitk.edu.in
 
   > Member-3: Name, Roll No., email
 </details>
