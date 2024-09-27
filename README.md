@@ -11,7 +11,7 @@
 
   > Member-1: Abhijit Kar, 231CS106, abhijitkar.231cs106@nit.edu.in
 
-  > member-2: Name, Roll No., email
+  > member-2: Sarth Shah, 
 
   > Member-3: Name, Roll No., email
 </details>
