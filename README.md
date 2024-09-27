@@ -9,7 +9,7 @@
 
   > Section: S1/S2
 
-  > Member-1: Name, Roll No., email
+  > Member-1: Abhijit Kar, 231CS106, abhijitkar.231cs106@nit.edu.in
 
   > member-2: Name, Roll No., email
 
