@@ -13,7 +13,7 @@
 
   > member-2: Sarth Santosh Shah, 231CS154 , sarthshah.231cs154@nitk.edu.in
 
-  > Member-3: Name, Roll No., email
+  > Member-3: Aaryan Yadav, Roll No., email
 </details>
 
 <!-- Second Section -->
