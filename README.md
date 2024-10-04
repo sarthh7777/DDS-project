@@ -20,7 +20,7 @@
 ## Abstract
 <details>
   <summary>Detail</summary>
-> 1. Motivation: For a runner, every step marks progress, and every heartbeat reflects determi-
+> !. Motivation: For a runner, every step marks progress, and every heartbeat reflects determi-
 nation. Running is more than just physical activity—it’s a journey of self-improvement and
 resilience. To support this growth, a tool is needed to accurately track performance and inspire
 continuous improvement.
