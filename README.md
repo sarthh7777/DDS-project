@@ -51,9 +51,8 @@ performance.
 > 3. Features: This system is designed to assist athletes in monitoring their performance during
 running sessions, using both sequential and combinational circuits. It consists of five key
 components:
-1. Heartbeat Monitoring System 1. Heartbeat Monitoring System The Heartbeat Moni-
-toring System plays a crucial role in ensuring the athlete’s safety during workouts. It continu-
-ously monitors heart rate inputs taken at regular intervals and calculates the average heartbeat
+1. The Heartbeat Monitoring System plays a crucial role in ensuring the athlete’s safety during workouts.
+It continuously monitors heart rate inputs taken at regular intervals and calculates the average heartbeat
 instantaneously.
 The system has two types of classifications:
 Based on the instantaneous heart rate:
@@ -124,4 +123,4 @@ future goals, and track their progress over time.
   <summary>Detail</summary>
 
   > Neatly update the Verilog code in code style only.
-</details>](https://github.com/abhijitkar10/DDS-project/edit/main/README.md)
+</details>(https://github.com/abhijitkar10/DDS-project/edit/main/README.md)
