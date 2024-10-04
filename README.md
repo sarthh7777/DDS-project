@@ -1,4 +1,4 @@
-[# Write your mini-project title
+[# Runner's Performance Measuring System
 
 <!-- First Section -->
 ## Team Details
@@ -7,13 +7,13 @@
 
   > Semester: 3rd Sem B. Tech. CSE
 
-  > Section: S1/S2
+  > Section: S1
 
   > Member-1: Abhijit Kar, 231CS106, abhijitkar.231cs106@nitk.edu.in
 
   > member-2: Sarth Santosh Shah, 231CS154 , sarthshah.231cs154@nitk.edu.in
 
-  > Member-3: Aaryan Yadav, Roll No., email
+  > Member-3: Aaryan Yadav, 231cs104, aaryanyadav.231cs104@nitk.edu.in
 </details>
 
 <!-- Second Section -->
