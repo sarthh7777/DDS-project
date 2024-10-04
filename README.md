@@ -1,4 +1,4 @@
-[# Runner's Performance Measuring System
+# Runner's Performance Measuring System
 
 <!-- First Section -->
 ## Team Details
