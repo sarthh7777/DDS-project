@@ -20,7 +20,7 @@
 ## Abstract
 <details>
   <summary>Detail</summary>
-> !. Motivation: For a runner, every step marks progress, and every heartbeat reflects determi-
+> 1. Motivation: For a runner, every step marks progress, and every heartbeat reflects determi-
 nation. Running is more than just physical activity—it’s a journey of self-improvement and
 resilience. To support this growth, a tool is needed to accurately track performance and inspire
 continuous improvement.
@@ -32,7 +32,8 @@ this project.
 Real-time data offers powerful motivation, pushing runners to reach new personal bests. This
 project is about more than building a performance tracker; it’s about capturing the spirit of
 running—helping runners celebrate progress, understand their limits, and push beyond them
-> 2. Problem Statement: Optimizing physical performance is essential for runners, athletes,
+
+  > 2. Problem Statement: Optimizing physical performance is essential for runners, athletes,
 and fitness enthusiasts in today’s active lifestyle. Effective monitoring of performance metrics
 is crucial for enhancing training efficiency and ensuring user safety during exercise. While
 many advanced gadgets are available, the challenge lies in creating a simple, cost-effective,
@@ -46,6 +47,7 @@ controllers or software solutions. It will leverage combinational circuits, coun
 flip-flops, and comparators to process and display necessary data, enabling efficient operation
 focused on critical parameters for tracking, optimizing, and ensuring the safety of a runner’s
 performance.
+
 > 3. Features: This system is designed to assist athletes in monitoring their performance during
 running sessions, using both sequential and combinational circuits. It consists of five key
 components:
@@ -88,9 +90,11 @@ Time Tracking: Records the duration of the workout, allowing users to analyze th
 improve their running strategy.
 Calories Burnt Calculation and Display: The system provides an estimate of how many calories
 the athlete has burned during the session.
+
 > 4. Alarm System An integrated alarm system is triggered when the heart rate enters the
 red state. This alarm acts as a critical safety feature, alerting the athlete to take immediate
 action to prevent potential health risks.
+
 > 5. End of Session Summary At the conclusion of each workout session, the system provides
 a comprehensive end-of-session summary. This summary includes:
 Average heartbeat Peak heartbeat Total distance covered Total steps taken Total calories
